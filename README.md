@@ -10,3 +10,4 @@ This is the place for my side projects, learning path and contributions to the c
 
 - Twitter
 - [Instagram](https://www.instagram.com/conde_diegoo/)
+- [LinkedIn](https://www.linkedin.com/in/diegocondel/)
